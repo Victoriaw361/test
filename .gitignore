@@ -1,2 +1,4 @@
-git init
-git status
+git add .
+git commit -m "first commit"
+git remote add origin <https://github.com/Victoriaw361/test.git> .git
+git push -u origin master
